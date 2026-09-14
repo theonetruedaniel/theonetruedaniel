@@ -4,7 +4,7 @@
 
 I turn customer needs and messy operational processes into clear workflows, useful records, and dependable follow-up. My work combines hands-on HubSpot administration, lead enrichment, SaaS customer support, and practical use of AI tools.
 
-[LinkedIn](https://www.linkedin.com/in/danielmabrams/) · [Interactive portfolio](https://daniel-abrams-portfolio-lab--danielmabrams.replit.app/lead-lab)
+[LinkedIn](https://www.linkedin.com/in/danielmabrams/) · [Portfolio: demos & case studies](https://theonetruedaniel.github.io/)
 
 ## Selected work
 
