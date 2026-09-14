@@ -11,7 +11,7 @@ I turn customer needs and messy operational processes into clear workflows, usef
 | Project | What to explore | Links |
 | --- | --- | --- |
 | **Revenue Operations & AI Lead Qualification** | Webhook intake, enrichment, qualification rules, CRM routing, and follow-up based on my AdScale experience. The interactive reconstruction uses fictional data and illustrative rules. | [Live demo](https://daniel-abrams-portfolio-lab--danielmabrams.replit.app/lead-lab) · [Gamma case study](https://gamma.app/docs/q5fun7ugwjj0g9n) |
-| **Abrams Intelligence** | Architecture and foundations for a modular AI platform: interchangeable models and tools, persistent user-controlled data, scoped permissions, and clear stop controls. Current work focuses on architecture validation and foundation tooling. | [Architecture explorer](https://daniel-abrams-portfolio-lab--danielmabrams.replit.app/architecture) · [Gamma presentation](https://gamma.app/docs/for2zexybupmugn) |
+| **Abrams Intelligence** | Architecture and foundations for a modular AI platform: interchangeable models and tools, persistent user-controlled data, scoped permissions, and clear stop controls. Current work focuses on architecture validation and foundation tooling. | [Repository](https://github.com/theonetruedaniel/abrams-intelligence) · [Architecture explorer](https://daniel-abrams-portfolio-lab--danielmabrams.replit.app/architecture) · [Gamma presentation](https://gamma.app/docs/for2zexybupmugn) |
 
 ## Experience I bring
 
