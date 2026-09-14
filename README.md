@@ -13,6 +13,15 @@ I turn customer needs and messy operational processes into clear workflows, usef
 | **Revenue Operations & AI Lead Qualification** | Webhook intake, enrichment, qualification rules, CRM routing, and follow-up based on my AdScale experience. The interactive reconstruction uses fictional data and illustrative rules. | [Live demo](https://daniel-abrams-portfolio-lab--danielmabrams.replit.app/lead-lab) · [Gamma case study](https://gamma.app/docs/q5fun7ugwjj0g9n) |
 | **Abrams Intelligence** | Architecture and foundations for a modular AI platform: interchangeable models and tools, persistent user-controlled data, scoped permissions, and clear stop controls. Current work focuses on architecture validation and foundation tooling. | [Repository](https://github.com/theonetruedaniel/abrams-intelligence) · [Architecture explorer](https://daniel-abrams-portfolio-lab--danielmabrams.replit.app/architecture) · [Gamma presentation](https://gamma.app/docs/for2zexybupmugn) |
 
+## A quick path through my work
+
+- **For RevOps and CRM roles:** start with the [lead qualification demo](https://daniel-abrams-portfolio-lab--danielmabrams.replit.app/lead-lab). It reconstructs a business workflow with fictional data: intake, qualification, routing and follow-up.
+- **For AI operations and technical research:** read the [Abrams reviewer guide](https://github.com/theonetruedaniel/abrams-intelligence/blob/main/docs/reviewer-guide.md), then the [component research](https://github.com/theonetruedaniel/abrams-intelligence/blob/main/docs/candidate-research.md). These show how I connect requirements, tradeoffs and evaluation questions.
+
+## What I am developing
+
+I am developing Abrams Intelligence's architecture and foundations, including research into agent runtimes, memory tools and development workflows. The public repository now includes source-linked assessments and a planned bake-off method. Candidate testing and the core application build have not started. My focus is making the next implementation decisions specific and testable.
+
 ## Experience I bring
 
 - **HubSpot administration:** two years at AdScale, including workflows, pipeline stages, dashboards, data quality, and work on two CRM migrations.
