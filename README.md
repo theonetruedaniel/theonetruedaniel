@@ -13,6 +13,10 @@ I turn customer needs and messy operational processes into clear workflows, usef
 | **Revenue Operations & AI Lead Qualification** | Webhook intake, enrichment, qualification rules, CRM routing, and follow-up based on my AdScale experience. The interactive reconstruction uses fictional data and illustrative rules. | [Live demo](https://daniel-abrams-portfolio-lab--danielmabrams.replit.app/lead-lab) · [Gamma case study](https://gamma.app/docs/q5fun7ugwjj0g9n) |
 | **Abrams Intelligence** | Architecture and foundations for a modular AI platform: interchangeable models and tools, persistent user-controlled data, scoped permissions, and clear stop controls. Current work focuses on architecture validation and foundation tooling. | [Repository](https://github.com/theonetruedaniel/abrams-intelligence) · [Architecture explorer](https://daniel-abrams-portfolio-lab--danielmabrams.replit.app/architecture) · [Gamma presentation](https://gamma.app/docs/for2zexybupmugn) |
 
+## Runnable RevOps work sample
+
+[RevOps lead routing](https://github.com/theonetruedaniel/revops-lead-routing) contains 24 fictional intake rows, explicit qualification rules, duplicate handling and a checked expected-versus-actual report. It runs offline with Python and includes tests; no CRM credentials are required.
+
 ## A quick path through my work
 
 - **For RevOps and CRM roles:** start with the [lead qualification demo](https://daniel-abrams-portfolio-lab--danielmabrams.replit.app/lead-lab). It reconstructs a business workflow with fictional data: intake, qualification, routing and follow-up.
