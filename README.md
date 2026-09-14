@@ -33,6 +33,16 @@ I am developing Abrams Intelligence's architecture and foundations, including re
 - **Customer communication:** explaining AI and API behavior, resolving misunderstandings, onboarding, documentation, and follow-up.
 - **Remote support:** customer questions, scheduling, tickets, and accurate records across multiple businesses at Phone.Do.
 
+## More projects
+
+| Project | What I built | Source |
+|---|---|---|
+| Fantasy Draft Assistant | A Chrome side-panel advisor for Yahoo and ESPN drafts, with roster-aware recommendations, research imports and an optional local AI relay. | [Public repository](https://github.com/theonetruedaniel/fantasy-draft-assistant) |
+| TicketAgent / Braves Ticket Ops | A ticket-inventory prototype with a Next.js dashboard, Chrome extension, shared parsers and a collection worker. | [Public repository](https://github.com/theonetruedaniel/ticketagent) |
+| Atlanta Car Finder | Marketplace parsing, evidence normalization, bounded collection and fixture tests for a personal car-search workflow. | [Public repository](https://github.com/theonetruedaniel/atlanta-car-finder) |
+
+These are public source editions of projects developed with AI assistance. Their READMEs explain setup, verification and current limitations; public source availability does not imply a live hosted service.
+
 ## Credentials
 
 - [Google AI Professional](https://www.coursera.org/account/accomplishments/professional-cert/certificate/DVSWZUXWH1NU) — Google / Coursera
