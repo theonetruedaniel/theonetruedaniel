@@ -45,10 +45,10 @@ These are public source editions of projects developed with AI assistance. Their
 
 ## Credentials
 
-- [Apply AI at Work](https://oaiacademy.credential.net/d8995a20-78e9-447d-abfd-37eb64763db9) — OpenAI Academy; issued September 2026, expires March 2027. Courses: [AI Foundations](https://oaiacademy.credential.net/8226ea11-6361-4f19-823e-c35564c8d666); [Applied AI Foundations](https://oaiacademy.credential.net/70e6b1f1-4432-497e-97c1-7b22a88c7a88); [Agents and Workflows](https://oaiacademy.credential.net/3782842c-6496-4000-9a7d-c04f3dc1b325).
-- [Google AI Professional](https://www.coursera.org/account/accomplishments/professional-cert/certificate/DVSWZUXWH1NU) — Google (Coursera); issued September 2026.
-- [HubSpot Revenue Operations Certified](https://app-na2.hubspot.com/academy/achievements/twxq78yc/en/1/daniel-abrams/hubspot-revenue-operations-certified) — HubSpot Academy; issued September 2026, expires October 2028.
-- [HubSpot Reporting Certified](https://app-na2.hubspot.com/academy/achievements/4ks7rjsy/en/1/daniel-abrams/hubspot-reporting-certified) — HubSpot Academy; issued September 2026, expires October 2027.
+- [Apply AI at Work](https://oaiacademy.credential.net/d8995a20-78e9-447d-abfd-37eb64763db9) — OpenAI Academy
+- [Google AI Professional](https://www.coursera.org/account/accomplishments/professional-cert/certificate/DVSWZUXWH1NU) — Google (Coursera)
+- [HubSpot Revenue Operations Certified](https://app-na2.hubspot.com/academy/achievements/twxq78yc/en/1/daniel-abrams/hubspot-revenue-operations-certified) — HubSpot Academy
+- [HubSpot Reporting Certified](https://app-na2.hubspot.com/academy/achievements/4ks7rjsy/en/1/daniel-abrams/hubspot-reporting-certified) — HubSpot Academy
 
 ## How I work
 
