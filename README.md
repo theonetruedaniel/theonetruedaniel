@@ -11,7 +11,7 @@ I turn customer needs and messy operational processes into clear workflows, usef
 | Project | What to explore | Links |
 | --- | --- | --- |
 | **Revenue Operations & AI Lead Qualification** | Webhook intake, enrichment, qualification rules, CRM routing, and follow-up based on my AdScale experience. The interactive reconstruction uses fictional data and illustrative rules. | [Live demo](https://daniel-abrams-portfolio-lab--danielmabrams.replit.app/lead-lab) · [Gamma case study](https://gamma.app/docs/q5fun7ugwjj0g9n) |
-| **Abrams Intelligence** | Architecture and foundations for a modular AI platform: interchangeable models and tools, persistent user-controlled data, scoped permissions, and clear stop controls. Current work focuses on architecture validation and foundation tooling. | [Repository](https://github.com/theonetruedaniel/abrams-intelligence) · [Architecture explorer](https://daniel-abrams-portfolio-lab--danielmabrams.replit.app/architecture) · [Gamma presentation](https://gamma.app/docs/for2zexybupmugn) |
+| **Abrams Intelligence** | Architecture and foundations for a modular AI platform: interchangeable models and tools, persistent user-controlled data, scoped permissions, and clear stop controls. Partial local Core/client/SQLite implementation has scoped tests; full integration and product acceptance remain in progress. | [Repository](https://github.com/theonetruedaniel/abrams-intelligence) · [Architecture explorer](https://theonetruedaniel.github.io/architecture/) · [Gamma presentation](https://gamma.app/docs/for2zexybupmugn) |
 
 ## Runnable RevOps work sample
 
@@ -24,7 +24,7 @@ I turn customer needs and messy operational processes into clear workflows, usef
 
 ## What I am developing
 
-I am developing Abrams Intelligence's architecture and foundations, including research into agent runtimes, memory tools and development workflows. The public repository now includes source-linked assessments and a planned bake-off method. Candidate testing and the core application build have not started. My focus is making the next implementation decisions specific and testable.
+I am developing Abrams Intelligence as a general-purpose, local-first personal intelligence platform with AI assistance. Parts of its Core, client and SQLite-backed storage are implemented and have scoped tests in local development. Full integration and product acceptance remain unfinished. The public repository contains architecture research and published offline development tooling; the newer local implementation is not yet published as a complete product. [Current progress](https://github.com/theonetruedaniel/abrams-intelligence/blob/main/docs/progress.md).
 
 ## Experience I bring
 
