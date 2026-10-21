@@ -6,25 +6,19 @@ I turn customer needs and messy operational processes into clear workflows, usef
 
 [LinkedIn](https://www.linkedin.com/in/danielmabrams/) · [Portfolio: demos & case studies](https://theonetruedaniel.github.io/)
 
-## Selected work
+## Start here
 
-| Project | What to explore | Links |
+| Project | What you can inspect | Evidence and scope |
 | --- | --- | --- |
-| **Revenue Operations & AI Lead Qualification** | Webhook intake, enrichment, qualification rules, CRM routing, and follow-up based on my AdScale experience. The interactive reconstruction uses fictional data and illustrative rules. | [Live demo](https://daniel-abrams-portfolio-lab--danielmabrams.replit.app/lead-lab) · [Gamma case study](https://gamma.app/docs/q5fun7ugwjj0g9n) |
-| **Abrams Intelligence** | Architecture and foundations for a modular AI platform: interchangeable models and tools, persistent user-controlled data, scoped permissions, and clear stop controls. Partial local Core/client/SQLite implementation has scoped tests; full integration and product acceptance remain in progress. | [Repository](https://github.com/theonetruedaniel/abrams-intelligence) · [Architecture explorer](https://theonetruedaniel.github.io/architecture/) · [Gamma presentation](https://gamma.app/docs/for2zexybupmugn) |
+| **[RevOps lead routing](https://github.com/theonetruedaniel/revops-lead-routing)** | Run 24 fictional intake records through explicit qualification, routing and duplicate-handling rules. Python standard library only; no credentials needed. | [Rules](https://github.com/theonetruedaniel/revops-lead-routing/blob/main/docs/rules.md) · [Expected versus actual results](https://github.com/theonetruedaniel/revops-lead-routing/blob/main/results/verification.md) · [Automated checks](https://github.com/theonetruedaniel/revops-lead-routing/actions/workflows/verify.yml). A synthetic work sample, with no CRM writes or outreach. |
+| **[Abrams Intelligence](https://github.com/theonetruedaniel/abrams-intelligence)** | Explore a local-first personal AI platform design and run its published offline developer dispatcher. | [Reviewer guide](https://github.com/theonetruedaniel/abrams-intelligence/blob/main/docs/reviewer-guide.md) · [Offline demo checks](https://github.com/theonetruedaniel/abrams-intelligence/actions/workflows/offline-demo.yml) · [Current progress](https://github.com/theonetruedaniel/abrams-intelligence/blob/main/docs/progress.md). In development; not an installable personal-assistant product. |
+| **Revenue Operations & AI Lead Qualification** | Follow webhook intake, enrichment, qualification, CRM routing and follow-up based on my AdScale experience. | [Interactive reconstruction](https://theonetruedaniel.github.io/lead-lab/) · [Case study](https://gamma.app/docs/q5fun7ugwjj0g9n). Fictional data and illustrative rules. |
 
-## Runnable RevOps work sample
-
-[RevOps lead routing](https://github.com/theonetruedaniel/revops-lead-routing) contains 24 fictional intake rows, explicit qualification rules, duplicate handling and a checked expected-versus-actual report. It runs offline with Python and includes tests; no CRM credentials are required.
-
-## A quick path through my work
-
-- **For RevOps and CRM roles:** start with the [lead qualification demo](https://daniel-abrams-portfolio-lab--danielmabrams.replit.app/lead-lab). It reconstructs a business workflow with fictional data: intake, qualification, routing and follow-up.
-- **For AI operations and technical research:** read the [Abrams reviewer guide](https://github.com/theonetruedaniel/abrams-intelligence/blob/main/docs/reviewer-guide.md), then the [component research](https://github.com/theonetruedaniel/abrams-intelligence/blob/main/docs/candidate-research.md). These show how I connect requirements, tradeoffs and evaluation questions.
+For **RevOps and CRM roles**, start with the runnable lead-routing sample and its checked results. For **AI operations and technical research**, start with the Abrams reviewer guide and [architecture explorer](https://theonetruedaniel.github.io/architecture/).
 
 ## What I am developing
 
-I am developing Abrams Intelligence as a general-purpose, local-first personal intelligence platform with AI assistance. Parts of its Core, client and SQLite-backed storage are implemented and have scoped tests in local development. Full integration and product acceptance remain unfinished. The public repository contains architecture research and published offline development tooling; the newer local implementation is not yet published as a complete product. [Current progress](https://github.com/theonetruedaniel/abrams-intelligence/blob/main/docs/progress.md).
+I am developing Abrams Intelligence with AI assistance. Partial Core, client and SQLite-backed storage implementation exists in local development with scoped tests; full integration and product acceptance remain unfinished. The public repository contains architecture research and offline tooling. The [progress ledger](https://github.com/theonetruedaniel/abrams-intelligence/blob/main/docs/progress.md) distinguishes published components, local work and remaining gates.
 
 ## Experience I bring
 
