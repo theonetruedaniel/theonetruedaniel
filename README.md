@@ -18,9 +18,9 @@ For **RevOps and CRM roles**, start with the runnable lead-routing sample and it
 
 ## What I am developing
 
-I am developing Abrams Intelligence with AI assistance: a local-first personal AI with replaceable models and tools, durable project records, and explicit user controls. As of November 10, 2026, local development includes partial Core, client and SQLite-backed storage implementation, with separately reviewed recovery, browser and capacity checks. The latest six scoped passes leave two native SQLite fault cases open, alongside the remaining Phase 2 work.
+I am developing Abrams Intelligence with AI assistance: a local-first personal AI with replaceable models and tools, durable project records, and explicit user controls. As of November 13, 2026, local development includes partial Core, client and SQLite-backed storage implementation, with separately reviewed recovery, browser, capacity and headless startup-gate checks. The latest six scoped passes leave two native SQLite fault cases open, alongside the remaining Phase 2 work.
 
-The public repository contains architecture research, a 198-repository catalog and a runnable offline developer dispatcher. The local product implementation is not yet published as a complete application. The [progress ledger](https://github.com/theonetruedaniel/abrams-intelligence/blob/main/docs/progress.md) and [update history](https://github.com/theonetruedaniel/abrams-intelligence/blob/main/CHANGELOG.md) distinguish published components, scoped results and remaining gates.
+The public repository contains architecture research, a 205-repository catalog and a runnable offline developer dispatcher. The local product implementation is not yet published as a complete application. The [progress ledger](https://github.com/theonetruedaniel/abrams-intelligence/blob/main/docs/progress.md) and [update history](https://github.com/theonetruedaniel/abrams-intelligence/blob/main/CHANGELOG.md) distinguish published components, scoped results and remaining gates.
 
 ## Experience I bring
 
